@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/services/software-development", "destination": "/services-software-development.html" },
+    { "source": "/services/business-systems", "destination": "/services-business-systems.html" },
+    { "source": "/services/compliance-and-governance", "destination": "/services-compliance-and-governance.html" },
+    { "source": "/services/ongoing-support", "destination": "/services-ongoing-support.html" }
+  ]
+}
